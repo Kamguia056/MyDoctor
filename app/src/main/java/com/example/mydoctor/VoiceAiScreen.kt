@@ -67,7 +67,7 @@ LIGNE DE CONDUITE :
 5. **Ton** : Professionnel, rassurant mais sérieux. Soyez concis mais complet.
 """.trimIndent()
 
-private const val GEMINI_API_KEY = "AIzaSyBR4iO8kJ53wq0EIgMNq9IS5He2dWap1X4"
+private const val GEMINI_API_KEY = "VOTRE CLE API"
 private const val GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=$GEMINI_API_KEY"
 
 // --- Logique Médicale ---
